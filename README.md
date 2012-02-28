@@ -18,12 +18,8 @@ the code is terrible.
 
 ### Attribution
 
-This game utilizes the Mercury Particle Engine which is 
-licensed under the Microsoft Public License.
-
-http://mpe.codeplex.com/
-
-http://www.microsoft.com/en-us/openness/licenses.aspx#MPL
+This game utilizes the [Mercury Particle Engine](http://mpe.codeplex.com/) which is 
+licensed under the [Microsoft Public License](http://www.microsoft.com/en-us/openness/licenses.aspx#MPL).
 
 All sounds from [freesound.org](http://www.freesound.org)
 
