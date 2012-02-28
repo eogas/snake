@@ -1,4 +1,4 @@
-﻿## Snake
+## snake
 
 Snake is my take on the classic Snake arcade game. 
 You play as a snake (a moving line of squares), 
@@ -25,10 +25,10 @@ http://mpe.codeplex.com/
 
 http://www.microsoft.com/en-us/openness/licenses.aspx#MPL
 
-All sounds from (freesound.org)[http://www.freesound.org]
+All sounds from [freesound.org](http://www.freesound.org)
 
 boom sound ([rocketexpl.wav](http://www.freesound.org/people/nthompson/sounds/47252/)) created by [nthompson](http://www.freesound.org/people/nthompson/)
 
 crunch sound ([Apple_Crunch_16.wav](http://www.freesound.org/people/Koops/sounds/20279/)) created by [Koops](http://www.freesound.org/people/Koops/)
 
-hurt sound ([hurt2.wav](http://www.freesound.org/people/thecheeseman/sounds/44429/) created by [thecheeseman](http://www.freesound.org/people/thecheeseman/)
+hurt sound ([hurt2.wav](http://www.freesound.org/people/thecheeseman/sounds/44429/)) created by [thecheeseman](http://www.freesound.org/people/thecheeseman/)
